@@ -18,6 +18,32 @@ export default {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
             colors: {
+                primary: {
+                    50: '#fff8e1',
+                    100: '#ffecb3',
+                    200: '#ffecb3',
+                    300: '#ffd54f',
+                    400: '#ffca28',
+                    500: '#ffc107',
+                    600: '#ffb300',
+                    700: '#ffa000',
+                    800: '#ff8f00',
+                    900: '#ff6f00',
+                    950: '#431407'
+                },
+                indigo: {
+                    50: '#fff8e1',
+                    100: '#ffecb3',
+                    200: '#ffecb3',
+                    300: '#ffd54f',
+                    400: '#ffca28',
+                    500: '#ffc107',
+                    600: '#ffb300',
+                    700: '#ffa000',
+                    800: '#ff8f00',
+                    900: '#ff6f00',
+                    950: '#431407'
+                },
                 gray: {
                     50: '#fafaf9',
                     100: '#f5f5f4',
